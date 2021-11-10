@@ -1,0 +1,12 @@
+2021-11-10 18:11:724 INFO  BasePage :30 - Launching Chrome Browser 
+2021-11-10 18:11:274 INFO  HomePage :29 - Enter Job Title : [[ChromeDriver: chrome on WINDOWS (6f6320ccb162eff8d40b2244adbf153f)] -> xpath: //input[@id='keywords']]
+2021-11-10 18:11:592 INFO  HomePage :35 - Enter Location : [[ChromeDriver: chrome on WINDOWS (6f6320ccb162eff8d40b2244adbf153f)] -> xpath: //input[@id='location']]
+2021-11-10 18:11:09 INFO  HomePage :41 - Select distance : 25
+2021-11-10 18:11:365 INFO  HomePage :47 - Clicking on find job button : [[ChromeDriver: chrome on WINDOWS (6f6320ccb162eff8d40b2244adbf153f)] -> xpath: //input[@id='hp-search-btn']]
+2021-11-10 18:11:841 INFO  HomePage :18 - Verify Job Title : [[ChromeDriver: chrome on WINDOWS (6f6320ccb162eff8d40b2244adbf153f)] -> xpath: //h1[contains(text(),'Software Tester jobs in London')]]
+2021-11-10 18:11:243 INFO  BasePage :30 - Launching Chrome Browser 
+2021-11-10 18:11:670 INFO  HomePage :29 - Enter Job Title : [[ChromeDriver: chrome on WINDOWS (4b36355e188d21863ff35a9e3606075c)] -> xpath: //input[@id='keywords']]
+2021-11-10 18:11:355 INFO  HomePage :35 - Enter Location : [[ChromeDriver: chrome on WINDOWS (4b36355e188d21863ff35a9e3606075c)] -> xpath: //input[@id='location']]
+2021-11-10 18:11:598 INFO  HomePage :41 - Select distance : 15
+2021-11-10 18:11:885 INFO  HomePage :47 - Clicking on find job button : [[ChromeDriver: chrome on WINDOWS (4b36355e188d21863ff35a9e3606075c)] -> xpath: //input[@id='hp-search-btn']]
+2021-11-10 18:11:357 INFO  HomePage :18 - Verify Job Title : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Software Tester jobs in London')]'
